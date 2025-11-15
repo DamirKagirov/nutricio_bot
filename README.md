@@ -94,13 +94,13 @@
 
 Пример диалога:
 
-<img src="screenshots/Dialog1.png" alt="Пример диалога1" width="400" />
-<img src="screenshots/Dialog2.png" alt="Пример диалога2" width="400" />
+<img src="screenshots/Dialog1.png" alt="Пример диалога1" width="600" />
+<img src="screenshots/Dialog2.png" alt="Пример диалога2" width="600" />
 
 Фрагменты схемы в конструкторе Salebot: 
 
-<img src="screenshots/Salebot1.png" alt="Salebot1" width="400" />
-<img src="screenshots/Salebot2.png" alt="Salebot2" width="400" />
+<img src="screenshots/Salebot1.png" alt="Salebot1" width="600" />
+<img src="screenshots/Salebot2.png" alt="Salebot2" width="600" />
 
 
 
